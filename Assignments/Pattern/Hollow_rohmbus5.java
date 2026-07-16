@@ -1,4 +1,4 @@
-package Assignments;
+package Assignments.Pattern;
 
 import java.util.Scanner;
 

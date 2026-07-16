@@ -1,4 +1,4 @@
-package Assignments;
+package Assignments.Pattern;
 // Take N (number of rows), print the following pattern (for N = 5).
 
 //      * * * * *

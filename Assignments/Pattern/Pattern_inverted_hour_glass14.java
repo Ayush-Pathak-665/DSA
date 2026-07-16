@@ -1,4 +1,4 @@
-package Assignments;
+package Assignments.Pattern;
 import java.util.*;
 public class Pattern_inverted_hour_glass14 {
 
